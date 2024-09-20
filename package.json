@@ -1,0 +1,21 @@
+{
+  "name": "purple-puke",
+  "displayName": "Purple Puke",
+  "description": "Purple Puke is a vibrant extension. Perfect for purple lovers and a dynamic coding vibe!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Puke: Vibrant Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-puke-vibrant-color-theme.json"
+      }
+    ]
+  }
+}
