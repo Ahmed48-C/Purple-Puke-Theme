@@ -3,6 +3,10 @@
   "displayName": "Purple Puke",
   "description": "Purple Puke is a vibrant extension. Perfect for purple lovers and a dynamic coding vibe!",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ahmed48-C/Purple-Puke-Theme"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
